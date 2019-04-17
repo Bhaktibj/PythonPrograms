@@ -1,4 +1,4 @@
-# Write a program Quadratic.
+
 # Python to find the roots of the equation a*x*x + b*x + c.
 
 import math
