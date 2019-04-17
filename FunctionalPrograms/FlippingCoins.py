@@ -1,5 +1,6 @@
-import random
+# Find Percentage of head and tail
 
+import random
 tail = 0
 head = 0
 tailPerc = 0.0
