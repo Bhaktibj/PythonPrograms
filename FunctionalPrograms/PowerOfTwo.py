@@ -1,3 +1,4 @@
+# Find the Power of Two
 import sys
 
 number = int(input(sys.argv[0]))
