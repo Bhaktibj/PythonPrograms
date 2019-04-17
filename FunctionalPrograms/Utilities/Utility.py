@@ -1,5 +1,6 @@
-import  random
 # program to generate a random coupon number
+
+import  random
 def coupons(list1):
     count = 0               # starting the count resulting from the loop
     while len(list1) > 0:
@@ -10,7 +11,7 @@ def coupons(list1):
         print(x)
     print("Total random number needed to have all distinct numbers:", count)
 
-#***************************************************************************************
+#**********************************************************************************************************************************
 
 # permutation of a string
 def permutation(s, l, r):
